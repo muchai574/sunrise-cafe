@@ -1,0 +1,27 @@
+body
+{
+font-family:sans-serif;
+margin:20PX;
+background-color: aqua;}
+h1,h2{
+color:#336699;}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom:20px;
+    border:1px solid;}
+ th,td{
+    border: 1px solid;
+    padding: 8px;
+    text-align: left;}
+th{
+    background-color: white;}
+    
+a{
+    color: blue;
+    text-decoration: none;}
+a:hover {
+    text-decoration: underline;}
+#menu table{
+    background-color: aqua;}
+    
